@@ -3,6 +3,7 @@
 
 **AI/ML Internship Project – June 2025 Batch**
 **Presented by Edunet Foundation**, in collaboration with **AICTE & Shell**
+
 **AICTE Student ID**: `STU63b8ff682f6021673068392`
 
 ---
